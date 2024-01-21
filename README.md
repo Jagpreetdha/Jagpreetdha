@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jagpreet Dhanova</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://img.freepik.com/premium-vector/programmer-work-laptop-computer-website-code-program-concept_133260-5400.jpg" width='400px'>
+<img src="https://img.freepik.com/premium-vector/programmer-work-laptop-computer-website-code-program-concept_133260-5400.jpg" width='300px'>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jagpreetdha&label=Profile%20views&color=0e75b6&style=flat" alt="jagpreetdha" /> </p>
 
 - 🔭 I’m currently working on **Youtube clone**
