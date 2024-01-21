@@ -1,4 +1,4 @@
-<img src="2wCEAAkGBxISEg8QEBAPEBUXEA8VFxUVDxUVFRUQFhUXFhUVFRUYHSkhGBopHRUVITEhJikrLi8uFyAzODMtNygtLisBCgoKDg0OGhAQGi4lICUtLSstLSsvLy0tLS0tLS0tLS0tMCstKy0vLSsrLS0tLS0tLSstLS0tLS0tLS0tLS0tLf" display='block'>
+<img src="2wCEAAkGBxISEg8QEBAPEBUXEA8VFxUVDxUVFRUQFhUXFhUVFRUYHSkhGBopHRUVITEhJikrLi8uFyAzODMtNygtLisBCgoKDg0OGhAQGi4lICUtLSstLSsvLy0tLS0tLS0tLS0tMCstKy0vLSsrLS0tLS0tLSstLS0tLS0tLS0tLS0tLf" >
 <h1 align="center">Hi 👋, I'm Jagpreet Dhanova</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://img.freepik.com/premium-vector/programmer-work-laptop-computer-website-code-program-concept_133260-5400.jpg" width='300px'>
